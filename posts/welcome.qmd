@@ -5,3 +5,5 @@ categories: [quarto, website]
 ---
 
 This is a starter post. Add notebooks (`.ipynb`) or Markdown/Quarto (`.qmd`) files to the `posts/` folder and they'll appear here automatically.
+
+**Thanks ChatGPT for creating this fake post for me :)**

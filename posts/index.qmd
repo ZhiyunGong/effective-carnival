@@ -9,4 +9,4 @@ listing:
 page-layout: article
 ---
 
-Welcome to the blog! New posts appear below.
+Welcome to my blog where I ramble about stuff...

@@ -3,8 +3,7 @@ title: "Hi, I'm Zhiyun 👋"
 image: none
 ---
 
-Welcome! I'm a **computational biologist** working on ML for transcriptomics and clinical translation.\
-Here you'll find papers, datasets, and interactive apps.
+Welcome! I'm a **computational biologist** working on applied Machine Learning on omics data to better assist personalized medicine. I'm also passionate about building user-friendly interactive tools to make my ML models, non-trivial data analysis more accessible to a wider audience.\
 
 ## Highlights
 
@@ -15,5 +14,5 @@ Here you'll find papers, datasets, and interactive apps.
 ➡️ Check out the [**Projects**](projects/index.qmd) page for live demos, or read the [**About**](about.qmd) page for my background.
 
 ::: callout-tip
-If you're hiring for postdocs or industry R&D (UK/US), feel free to reach out.
+If you're hiring for postdocs or industry R&D roles (UK/US), feel free to reach out.
 :::
