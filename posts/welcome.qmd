@@ -1,0 +1,7 @@
+---
+title: "Welcome to my Quarto blog"
+date: 2025-08-13
+categories: [quarto, website]
+---
+
+This is a starter post. Add notebooks (`.ipynb`) or Markdown/Quarto (`.qmd`) files to the `posts/` folder and they'll appear here automatically.

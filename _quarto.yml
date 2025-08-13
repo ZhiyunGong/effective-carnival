@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Zhiyun Gong"
+  description: "Computational biology • ML for genomics • interactive apps"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Apps
+        href: apps.qmd
+      - text: Blog
+        href: posts/
+  page-footer:
+    left: "© {{< meta year >}} Zhiyun Gong"
+    right: "Built with Quarto"
+  repo-url: https://github.com/yourname/your-quarto-site
+  repo-actions: [source]
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+metadata-files:
+  - _site.yml
