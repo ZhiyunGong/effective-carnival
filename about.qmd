@@ -2,18 +2,21 @@
 title: "About"
 ---
 
-I'm a PhD candidate in **Quantitative Biomedical Sciences** at Dartmouth (advisor: Michael Whitfield).  
+I'm a PhD candidate in **Quantitative Biomedical Sciences** at Dartmouth (advisor: Michael Whitfield).\
 Previously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.
 
 ### Research focus
-- Patient stratification from bulk & single‑cell omics
-- GSVA/Pathway modeling for disease mechanisms
-- Interactive, reproducible analysis with Shiny, Dash, and Streamlit
+
+-   Patient stratification from bulk & single-cell omics
+-   GSVA/Pathway modeling for disease mechanisms
+-   Interactive, reproducible analysis with Shiny, Dash, and Streamlit
 
 ### CV
-- **Download my CV (PDF/Docx):** [CV_Gong_Zhiyun_24S.docx](CV_Gong_Zhiyun_24S.docx)
+
+-   **Download my CV (PDF/Docx):** [CV_Gong_Zhiyun_24S.docx](CV_Gong_Zhiyun_24S.docx)
 
 ### Contact
+
 <!-- - Email: Zhiyun.Gong.GR@Dartmouth.edu -->
-- GitHub: `ZhiyunGong`
-- LinkedIn: `linkedin.com/in/zhiyun-gong-914629139`
+
+[![](images/paste-1.png){width="40"}](https://www.linkedin.com/in/zhiyungong/)[![](images/paste-3.png){width="40"}](https://github.com/ZhiyunGong)
