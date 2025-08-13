@@ -23,8 +23,7 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      solar
     css: styles.css
     toc: true
     smooth-scroll: true
