@@ -19,4 +19,4 @@ Previously, I completed an MS in Computational Biology at CMU and built tools sp
 
 <!-- - Email: Zhiyun.Gong.GR@Dartmouth.edu -->
 
-[![](images/paste-1.png){width="40"}](https://www.linkedin.com/in/zhiyungong/)[![](images/paste-3.png){width="40"}](https://github.com/ZhiyunGong)
+[![](images/paste-1.png){width="40"}](https://www.linkedin.com/in/ZhiyunG/)[![](images/paste-3.png){width="40"}](https://github.com/ZhiyunGong)
