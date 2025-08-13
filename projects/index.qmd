@@ -1,0 +1,12 @@
+---
+title: "Portfolio"
+listing:
+  contents: .             # list items in this folder
+  type: grid              # card/grid layout
+  sort: "title"           # or "date desc" if you add dates
+  categories: false       # set true if you tag apps
+  feed: false
+page-layout: article
+---
+
+Explore my interactive tools and demos. Click a card to open the app’s page.

@@ -1,18 +1,33 @@
 ---
-title: "Interactive Apps"
+title: "Things I created"
 ---
 
-Here are a few demos. You can link to live deployments, or embed them below.
+### Active Experiment Dashboard (Shiny on Posit Connect)
 
-### SSc Skin Subtype Suite (Shiny)
-- Live: *add your Posit Connect / EC2 URL*
-- Source: *add repo link*
+- **Live link:** <https://zhiyunapps-active-experiment-dashboard.share.connect.posit.cloud/>  
+- *Notes:* Embedded below for quick preview. If your browser blocks embeds due to security headers, use the link above.
 
 ```{=html}
-<!-- Example iframe embed (replace src with your app URL) -->
-<iframe src="https://example.com" title="SSc App" width="100%" height="700" frameborder="0"></iframe>
-```
-
-### Bayesian Optimization UI
-- Live: *link*
-- Source: *link*
+<style>
+.app-embed-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 70vh; /* viewport height for the embed */
+  overflow: hidden;
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+}
+.app-embed-container iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  border: 0;
+}
+</style>
+<div class="app-embed-container">
+  <iframe src="https://zhiyunapps-active-experiment-dashboard.share.connect.posit.cloud/"
+          title="Active Experiment Dashboard"
+          loading="lazy">
+  </iframe>
+</div>

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Zhiyun 👋",
+    "section": "",
+    "text": "Welcome! I’m a computational biologist working on ML for transcriptomics and clinical translation.\nHere you’ll find papers, datasets, and interactive apps."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Hi, I’m Zhiyun 👋",
+    "section": "Highlights",
+    "text": "Highlights\n\nSSc Subtyping — ML models integrating skin & blood RNA‑seq\nBayesian Optimization Toolkit — R package + Shiny UI\nSpatial/single‑cell interests — atlases, generative models, target discovery\n\n➡️ Check out the Apps page for live demos, or read the About page for my background.\n\n\n\n\n\n\nTip\n\n\n\nIf you’re hiring for postdocs or industry R&D (UK/US), feel free to reach out."
+  },
+  {
+    "objectID": "posts/welcome.html",
+    "href": "posts/welcome.html",
+    "title": "Welcome to my Quarto blog",
+    "section": "",
+    "text": "This is a starter post. Add notebooks (.ipynb) or Markdown/Quarto (.qmd) files to the posts/ folder and they’ll appear here automatically."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\nPreviously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\nResearch focus\n\nPatient stratification from bulk & single‑cell omics\nGSVA/Pathway modeling for disease mechanisms\nInteractive, reproducible analysis with Shiny, Dash, and Streamlit\n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\nContact\n\nEmail: Zhiyun.Gong.GR@Dartmouth.edu\nGitHub: yourname\nLinkedIn: your-linkedin"
+  },
+  {
+    "objectID": "apps.html",
+    "href": "apps.html",
+    "title": "Things I created",
+    "section": "",
+    "text": "Active Experiment Dashboard (Shiny on Posit Connect)\n\nLive link: https://zhiyunapps-active-experiment-dashboard.share.connect.posit.cloud/\n\nNotes: Embedded below for quick preview. If your browser blocks embeds due to security headers, use the link above."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to the blog! New posts appear below.\n\n\n\n\n\n\n\n\n\n\n\n\nThoughts\n\n\n\nrandom\n\n\n\n\n\n\n\n\n\n\nAug 13, 2025\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my Quarto blog\n\n\n\nquarto\n\nwebsite\n\n\n\n\n\n\n\n\n\n\nAug 13, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/081325-beginning.html",
+    "href": "posts/081325-beginning.html",
+    "title": "Thoughts",
+    "section": "",
+    "text": "Hello world -\nSo many thoughts floating in my mind\nThe self is such a simple but yet complex concept\nCan’t be closer physically sometimes\nCan’t be farther away or more detached in some ways\nIt’s a daily exercise to be honest with her\nTo listen\nTo accept\nTo just be\nTo forgive\nSo she doesn’t get lost and scared again"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Explore my interactive tools and demos. Click a card to open the app’s page.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActive Experiment Dashboard\n\n\nMonitor and prioritize ongoing experiments with live metrics.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/apps-active-exp-dash.html",
+    "href": "projects/apps-active-exp-dash.html",
+    "title": "Active Experiment Dashboard",
+    "section": "",
+    "text": "If the embed doesn’t load, click below to open in a new tab.\n\n\n Open in new tab"
+  },
+  {
+    "objectID": "projects/app-active-exp-dash/apps-active-exp-dash.html",
+    "href": "projects/app-active-exp-dash/apps-active-exp-dash.html",
+    "title": "Active Experiment Dashboard",
+    "section": "",
+    "text": "If the embed doesn’t load, click below to open in a new tab.\n\n\n Open in new tab"
+  }
+]

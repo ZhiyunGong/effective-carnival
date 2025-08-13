@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+  categories: true
+  feed: true
+page-layout: article
+---
+
+Welcome to the blog! New posts appear below.

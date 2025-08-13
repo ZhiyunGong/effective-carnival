@@ -10,8 +10,8 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
-      - text: Apps
-        href: apps.qmd
+      - text: Portfolio
+        href: projects/
       - text: Blog
         href: posts/
   page-footer:
