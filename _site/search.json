@@ -11,7 +11,7 @@
     "href": "index.html#highlights",
     "title": "Hi, I’m Zhiyun 👋",
     "section": "Highlights",
-    "text": "Highlights\n\nSSc Subtyping — ML models integrating skin & blood RNA‑seq\nBayesian Optimization Toolkit — R package + Shiny UI\nSpatial/single‑cell interests — atlases, generative models, target discovery\n\n➡️ Check out the Apps page for live demos, or read the About page for my background.\n\n\n\n\n\n\nTip\n\n\n\nIf you’re hiring for postdocs or industry R&D (UK/US), feel free to reach out."
+    "text": "Highlights\n\nSSc Subtyping — ML models integrating skin & blood RNA‑seq\nBayesian Optimization Toolkit — R package + Shiny UI\nSpatial/single‑cell interests — atlases, generative models, target discovery\n\n➡️ Check out the Projects page for live demos, or read the About page for my background.\n\n\n\n\n\n\nTip\n\n\n\nIf you’re hiring for postdocs or industry R&D (UK/US), feel free to reach out."
   },
   {
     "objectID": "posts/welcome.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\nPreviously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\nResearch focus\n\nPatient stratification from bulk & single‑cell omics\nGSVA/Pathway modeling for disease mechanisms\nInteractive, reproducible analysis with Shiny, Dash, and Streamlit\n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\nContact\n\nEmail: Zhiyun.Gong.GR@Dartmouth.edu\nGitHub: yourname\nLinkedIn: your-linkedin"
+    "text": "I’m a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\nPreviously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\nResearch focus\n\nPatient stratification from bulk & single‑cell omics\nGSVA/Pathway modeling for disease mechanisms\nInteractive, reproducible analysis with Shiny, Dash, and Streamlit\n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\nContact\n\nEmail: Zhiyun.Gong.GR@Dartmouth.edu\nGitHub: ZhiyunGong\nLinkedIn: linkedin.com/in/zhiyun-gong-914629139"
   },
   {
     "objectID": "apps.html",

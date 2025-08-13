@@ -17,7 +17,7 @@ website:
   page-footer:
     left: "© {{< meta year >}} Zhiyun Gong"
     right: "Built with Quarto"
-  repo-url: https://github.com/yourname/your-quarto-site
+  repo-url: https://github.com/ZhiyunGong/effective-carnival.git
   repo-actions: [source]
 
 format:

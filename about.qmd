@@ -14,6 +14,6 @@ Previously, I completed an MS in Computational Biology at CMU and built tools sp
 - **Download my CV (PDF/Docx):** [CV_Gong_Zhiyun_24S.docx](CV_Gong_Zhiyun_24S.docx)
 
 ### Contact
-- Email: Zhiyun.Gong.GR@Dartmouth.edu
-- GitHub: `yourname`
-- LinkedIn: `your-linkedin`
+<!-- - Email: Zhiyun.Gong.GR@Dartmouth.edu -->
+- GitHub: `ZhiyunGong`
+- LinkedIn: `linkedin.com/in/zhiyun-gong-914629139`

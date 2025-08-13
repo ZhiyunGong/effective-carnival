@@ -12,7 +12,7 @@ Here you'll find papers, datasets, and interactive apps.
 -   **Bayesian Optimization Toolkit** — R package + Shiny UI
 -   **Spatial/single‑cell interests** — atlases, generative models, target discovery
 
-➡️ Check out the [**Apps**](apps.qmd) page for live demos, or read the [**About**](about.qmd) page for my background.
+➡️ Check out the [**Projects**](projects/index.qmd) page for live demos, or read the [**About**](about.qmd) page for my background.
 
 ::: callout-tip
 If you're hiring for postdocs or industry R&D (UK/US), feel free to reach out.
