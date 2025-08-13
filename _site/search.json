@@ -4,28 +4,28 @@
     "href": "index.html",
     "title": "Hi, I’m Zhiyun 👋",
     "section": "",
-    "text": "Welcome! I’m a computational biologist working on ML for transcriptomics and clinical translation.\nHere you’ll find papers, datasets, and interactive apps."
+    "text": "Welcome! I’m a computational biologist working on applied Machine Learning on omics data to better assist personalized medicine. I’m also passionate about building user-friendly interactive tools to make my ML models, non-trivial data analysis more accessible to a wider audience."
   },
   {
     "objectID": "index.html#highlights",
     "href": "index.html#highlights",
     "title": "Hi, I’m Zhiyun 👋",
     "section": "Highlights",
-    "text": "Highlights\n\nSSc Subtyping — ML models integrating skin & blood RNA‑seq\nBayesian Optimization Toolkit — R package + Shiny UI\nSpatial/single‑cell interests — atlases, generative models, target discovery\n\n➡️ Check out the Projects page for live demos, or read the About page for my background.\n\n\n\n\n\n\nTip\n\n\n\nIf you’re hiring for postdocs or industry R&D (UK/US), feel free to reach out."
+    "text": "Highlights\n\nSSc Subtyping — ML models integrating skin & blood RNA‑seq\nBayesian Optimization Toolkit — R package + Shiny UI\nSpatial/single‑cell interests — atlases, generative models, target discovery\n\n➡️ Check out the Projects page for live demos, or read the About page for my background.\n\n\n\n\n\n\nTip\n\n\n\nIf you’re hiring for postdocs or industry R&D roles (UK/US), feel free to reach out."
   },
   {
     "objectID": "posts/welcome.html",
     "href": "posts/welcome.html",
     "title": "Welcome to my Quarto blog",
     "section": "",
-    "text": "This is a starter post. Add notebooks (.ipynb) or Markdown/Quarto (.qmd) files to the posts/ folder and they’ll appear here automatically."
+    "text": "This is a starter post. Add notebooks (.ipynb) or Markdown/Quarto (.qmd) files to the posts/ folder and they’ll appear here automatically.\nThanks ChatGPT for creating this fake post for me :)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\nPreviously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\nResearch focus\n\nPatient stratification from bulk & single-cell omics\nGSVA/Pathway modeling for disease mechanisms\nInteractive, reproducible analysis with Shiny, Dash, and Streamlit\n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\nContact"
+    "text": "I’m a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\nPreviously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\nResearch focus\n\nPatient stratification from bulk & single-cell omics\nGSVA/Pathway modeling for disease mechanisms\nInteractive, reproducible analysis with Shiny, Dash, and Streamlit\n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\nContact\n\n  \n    Name\n    \n  \n\n  \n    Email\n    \n  \n\n  \n    Message\n    \n  \n\n  \n  \n\n  \n  \n\n  \n  \n\n  Send\n\n\n  I’ll get an email notification when you submit this form."
   },
   {
     "objectID": "apps.html",
@@ -39,7 +39,7 @@
     "href": "posts/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome to the blog! New posts appear below.\n\n\n\n\n\n\n\n\n\n\n\n\nThoughts\n\n\n\nrandom\n\n\n\n\n\n\n\n\n\n\nAug 13, 2025\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my Quarto blog\n\n\n\nquarto\n\nwebsite\n\n\n\n\n\n\n\n\n\n\nAug 13, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my blog where I ramble about stuff…\n\n\n\n\n\n\n\n\n\n\n\n\nThoughts\n\n\n\nrandom\n\n\n\n\n\n\n\n\n\n\nAug 13, 2025\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my Quarto blog\n\n\n\nquarto\n\nwebsite\n\n\n\n\n\n\n\n\n\n\nAug 13, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/081325-beginning.html",
@@ -53,7 +53,7 @@
     "href": "projects/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Explore my interactive tools and demos. Click a card to open the app’s page.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActive Experiment Dashboard\n\n\nMonitor and prioritize ongoing experiments with live metrics.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Explore things that I created! There are interactive tools and demos I built for coursework or as independent projects, as well as some random other things.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActive Experiment Dashboard\n\n\nMonitor and prioritize ongoing experiments with live metrics.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/apps-active-exp-dash.html",
@@ -68,5 +68,12 @@
     "title": "Active Experiment Dashboard",
     "section": "",
     "text": "If the embed doesn’t load, click below to open in a new tab.\n\n\n Open in new tab"
+  },
+  {
+    "objectID": "thank-you.html",
+    "href": "thank-you.html",
+    "title": "Thanks!",
+    "section": "",
+    "text": "Thanks for reaching out — I’ll be in touch soon."
   }
 ]
