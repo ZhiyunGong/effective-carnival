@@ -4,16 +4,10 @@ title: "About"
 ```{=html}
 <!-- Simple, responsive two‑column layout for headshot + bio -->
 <div style="display:flex; gap:2rem; align-items:center; flex-wrap:wrap;">
-
-  <!-- Profile image -->
-  <img src="images/profile.jpg"
-       alt="Zhiyun Gong"
-       style="width:220px; height:220px; object-fit:cover; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.15);">
-
   <!-- Bio block (your existing content) -->
   <div style="flex:1; min-width:280px;">
     <p>I'm a PhD candidate in <strong>Quantitative Biomedical Sciences</strong> at Dartmouth (advisor: Michael Whitfield).<br>
-    Previously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.</p>
+    Previously, I completed an MS in <strong> Computational Biology</strong> at Carnegine Mellon University, and earned my BSc in <strong> Bioinformatics </strong>from Xi'an Jiaotong Liverpool University, China / University of Liverpool, UK.</p>
 
     <h3>Research focus</h3>
     <ul>
@@ -21,6 +15,14 @@ title: "About"
       <li>Interactive, reproducible analysis with Shiny, Dash, and Streamlit</li>
     </ul>
   </div>
+
+
+  <!-- Profile image -->
+  <img src="images/profile.jpg"
+       alt="Zhiyun Gong"
+       style="width:220px; height:220px; object-fit:cover; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.15);">
+
+
 </div>
 ```
 ---

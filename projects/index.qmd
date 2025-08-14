@@ -9,4 +9,4 @@ listing:
 page-layout: article
 ---
 
-Explore things that I created! There are interactive tools and demos I built for coursework or as independent projects, as well as some random other things.
+Explore things that I created! There are interactive tools and demos I built for coursework or as independent projects, my writings, as well as some random other things.

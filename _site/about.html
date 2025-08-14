@@ -122,8 +122,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#cv" id="toc-cv" class="nav-link active" data-scroll-target="#cv">CV</a></li>
-  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link active" data-scroll-target="#contact">Contact</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/ZhiyunGong/effective-carnival.git/blob/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></nav>
     </div>
@@ -151,31 +150,31 @@ ul.task-list li input[type="checkbox"] {
 
 <!-- Simple, responsive two‑column layout for headshot + bio -->
 <div style="display:flex; gap:2rem; align-items:center; flex-wrap:wrap;">
+  <!-- Bio block (your existing content) -->
+  <div style="flex:1; min-width:280px;">
+    <p>I'm a PhD candidate in <strong>Quantitative Biomedical Sciences</strong> at Dartmouth (advisor: Michael Whitfield).<br>
+    Previously, I completed an MS in <strong> Computational Biology</strong> at Carnegine Mellon University, and earned my BSc in <strong> Bioinformatics </strong>from Xi'an Jiaotong Liverpool University, China / University of Liverpool, UK.</p>
+
+    <h3 class="anchored">Research focus</h3>
+    <ul>
+      <li>Machine Learning on bulk &amp; single-cell omics for patient stratification and precision medicine </li>
+      <li>Interactive, reproducible analysis with Shiny, Dash, and Streamlit</li>
+    </ul>
+  </div>
+
 
   <!-- Profile image -->
   <img src="images/profile.jpg" alt="Zhiyun Gong" style="width:220px; height:220px; object-fit:cover; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.15);">
 
-  <!-- Bio block (your existing content) -->
-  <div style="flex:1; min-width:280px;">
-    <p>I'm a PhD candidate in <strong>Quantitative Biomedical Sciences</strong> at Dartmouth (advisor: Michael Whitfield).<br>
-    Previously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.</p>
 
-    <h3 class="anchored">Research focus</h3>
-    <ul>
-      <li>Patient stratification from bulk &amp; single-cell omics</li>
-      <li>GSVA/Pathway modeling for disease mechanisms</li>
-      <li>Interactive, reproducible analysis with Shiny, Dash, and Streamlit</li>
-    </ul>
-  </div>
 </div>
 <hr>
-<section id="cv" class="level3">
-<h3 class="anchored" data-anchor-id="cv">CV</h3>
-<ul>
-<li><strong>Download my CV (PDF/Docx):</strong> <a href="CV_Gong_Zhiyun_24S.docx">CV_Gong_Zhiyun_24S.docx</a></li>
-</ul>
-<hr>
-</section>
+<!-- 
+### CV
+
+- **Download my CV (PDF/Docx):** [CV_Gong_Zhiyun_24S.docx](CV_Gong_Zhiyun_24S.docx)
+
+--- -->
 <section id="contact" class="level3">
 <h3 class="anchored" data-anchor-id="contact">Contact</h3>
 <form action="https://formspree.io/f/myzpvzyz" method="POST" class="mb-4" style="max-width:640px">
