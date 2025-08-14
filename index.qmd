@@ -3,8 +3,23 @@ title: "Hi, I'm Zhiyun 👋"
 image: none
 ---
 
-Welcome! I'm a **computational biologist** working on applied Machine Learning on omics data to better assist personalized medicine. I'm also passionate about building user-friendly interactive tools to make my ML models, non-trivial data analysis more accessible to a wider audience.\
 
+
+```{=html}
+<div style="display:flex; gap:2rem; align-items:center; flex-wrap:wrap;">
+
+  <!-- Profile image -->
+  <img src="images/profile1.jpg"
+       alt="Zhiyun Gong"
+       style="width:220px; height:220px; object-fit:cover; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.15);">
+
+  <!-- Intro -->
+  <div style="flex:1; min-width:280px;">
+    <p>Welcome! I'm a <strong>computational biologist</strong> working on applied Machine Learning on omics data to better assist personalized medicine. 
+    I'm also passionate about building user-friendly interactive tools to make my ML models and non-trivial data analysis more accessible to a wider audience.</p>
+  </div>
+</div>
+```
 ## Highlights
 
 -   **SSc Subtyping** — ML models integrating skin & blood RNA‑seq

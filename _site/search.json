@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hi, I’m Zhiyun 👋",
     "section": "",
-    "text": "Welcome! I’m a computational biologist working on applied Machine Learning on omics data to better assist personalized medicine. I’m also passionate about building user-friendly interactive tools to make my ML models, non-trivial data analysis more accessible to a wider audience."
+    "text": "Welcome! I'm a computational biologist working on applied Machine Learning on omics data to better assist personalized medicine. \n    I'm also passionate about building user-friendly interactive tools to make my ML models and non-trivial data analysis more accessible to a wider audience."
   },
   {
     "objectID": "index.html#highlights",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\nPreviously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\nResearch focus\n\nPatient stratification from bulk & single-cell omics\nGSVA/Pathway modeling for disease mechanisms\nInteractive, reproducible analysis with Shiny, Dash, and Streamlit\n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\nContact\n\n  \n    Name\n    \n  \n\n  \n    Email\n    \n  \n\n  \n    Message\n    \n  \n\n  \n  \n\n  \n  \n\n  \n  \n\n  Send\n\n\n  I’ll get an email notification when you submit this form."
+    "text": "I'm a PhD candidate in Quantitative Biomedical Sciences at Dartmouth (advisor: Michael Whitfield).\n    Previously, I completed an MS in Computational Biology at CMU and built tools spanning R/Python/Go.\n\n    Research focus\n    \n      Patient stratification from bulk & single-cell omics\n      GSVA/Pathway modeling for disease mechanisms\n      Interactive, reproducible analysis with Shiny, Dash, and Streamlit\n    \n  \n\n\n\nCV\n\nDownload my CV (PDF/Docx): CV_Gong_Zhiyun_24S.docx\n\n\n\n\nContact\n\n  \n    Name\n    \n  \n\n  \n    Email\n    \n  \n\n  \n    Message\n    \n  \n\n  \n  \n\n  \n  \n\n  \n  \n\n  Send\n\n\n  I’ll get an email notification when you submit this form."
   },
   {
     "objectID": "apps.html",
