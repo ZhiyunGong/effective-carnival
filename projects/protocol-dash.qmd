@@ -1,0 +1,32 @@
+---
+title: "PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs"
+categories: [Machine Learning, Optimization, Shiny App]
+image: ../images/protocol-dashboard-preview.png
+---
+
+## Overview
+
+This interactive dashboard accompanies our paper:
+
+**Asynchronous parallel Bayesian optimization for AI-driven cloud laboratories**  
+*Trevor S Frisby, Zhiyun Gong, Christopher James Langmead*  
+Bioinformatics, Volume 37, Issue Supplement_1, July 2021, Pages i451–i459  
+[https://doi.org/10.1093/bioinformatics/btab291](https://doi.org/10.1093/bioinformatics/btab291)
+
+The dashboard lets you:
+- Run **PROTOCOL** — PaRallel OptimizaTiOn for CLoud Laboratories
+- Compare with other Bayesian optimization algorithms
+- Visualize optimization progress and results
+- Experiment with different simulated lab settings
+
+---
+
+## Live App
+
+```{=html}
+<div style="position:relative; padding-bottom:65%; height:0; overflow:hidden;">
+  <iframe src="https://zhiyunapps-protocol.share.connect.posit.cloud/" 
+          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" 
+          allowfullscreen>
+  </iframe>
+</div>

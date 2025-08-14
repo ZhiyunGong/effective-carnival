@@ -53,7 +53,7 @@
     "href": "projects/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Explore things that I created! There are interactive tools and demos I built for coursework or as independent projects, as well as some random other things.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActive Experiment Dashboard\n\n\nMonitor and prioritize ongoing experiments with live metrics.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Explore things that I created! There are interactive tools and demos I built for coursework or as independent projects, my writings, as well as some random other things.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActive Experiment Dashboard\n\n\nMonitor and prioritize ongoing experiments with live metrics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROTOCOL Dashboard — Bayesian Optimization for Cloud Labs\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/apps-active-exp-dash.html",
@@ -75,5 +75,26 @@
     "title": "Thanks!",
     "section": "",
     "text": "Thanks for reaching out — I’ll be in touch soon."
+  },
+  {
+    "objectID": "projects/protocol-dash.html",
+    "href": "projects/protocol-dash.html",
+    "title": "PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs",
+    "section": "",
+    "text": "This interactive dashboard accompanies our paper:\nAsynchronous parallel Bayesian optimization for AI-driven cloud laboratories\nTrevor S Frisby, Zhiyun Gong, Christopher James Langmead\nBioinformatics, Volume 37, Issue Supplement_1, July 2021, Pages i451–i459\nhttps://doi.org/10.1093/bioinformatics/btab291\nThe dashboard lets you: - Run PROTOCOL — PaRallel OptimizaTiOn for CLoud Laboratories - Compare with other Bayesian optimization algorithms - Visualize optimization progress and results - Experiment with different simulated lab settings"
+  },
+  {
+    "objectID": "projects/protocol-dash.html#overview",
+    "href": "projects/protocol-dash.html#overview",
+    "title": "PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs",
+    "section": "",
+    "text": "This interactive dashboard accompanies our paper:\nAsynchronous parallel Bayesian optimization for AI-driven cloud laboratories\nTrevor S Frisby, Zhiyun Gong, Christopher James Langmead\nBioinformatics, Volume 37, Issue Supplement_1, July 2021, Pages i451–i459\nhttps://doi.org/10.1093/bioinformatics/btab291\nThe dashboard lets you: - Run PROTOCOL — PaRallel OptimizaTiOn for CLoud Laboratories - Compare with other Bayesian optimization algorithms - Visualize optimization progress and results - Experiment with different simulated lab settings"
+  },
+  {
+    "objectID": "projects/protocol-dash.html#live-app",
+    "href": "projects/protocol-dash.html#live-app",
+    "title": "PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs",
+    "section": "Live App",
+    "text": "Live App"
   }
 ]

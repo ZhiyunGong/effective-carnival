@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Portfolio – Zhiyun Gong</title>
+<title>PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs – Zhiyun Gong</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -69,66 +67,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -177,16 +117,28 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#live-app" id="toc-live-app" class="nav-link" data-scroll-target="#live-app">Live App</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/ZhiyunGong/effective-carnival.git/blob/main/projects/protocol-dash.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Portfolio</h1>
-</div>
+<h1 class="title">PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Machine Learning</div>
+    <div class="quarto-category">Optimization</div>
+    <div class="quarto-category">Shiny App</div>
+  </div>
+  </div>
 
 
 
@@ -202,58 +154,26 @@ window.Quarto = {
 </header>
 
 
-<p>Explore things that I created! There are interactive tools and demos I built for coursework or as independent projects, my writings, as well as some random other things.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>This interactive dashboard accompanies our paper:</p>
+<p><strong>Asynchronous parallel Bayesian optimization for AI-driven cloud laboratories</strong><br>
+<em>Trevor S Frisby, Zhiyun Gong, Christopher James Langmead</em><br>
+Bioinformatics, Volume 37, Issue Supplement_1, July 2021, Pages i451–i459<br>
+<a href="https://doi.org/10.1093/bioinformatics/btab291">https://doi.org/10.1093/bioinformatics/btab291</a></p>
+<p>The dashboard lets you: - Run <strong>PROTOCOL</strong> — PaRallel OptimizaTiOn for CLoud Laboratories - Compare with other Bayesian optimization algorithms - Visualize optimization progress and results - Experiment with different simulated lab settings</p>
+<hr>
+</section>
+<section id="live-app" class="level2">
+<h2 class="anchored" data-anchor-id="live-app">Live App</h2>
+<div style="position:relative; padding-bottom:65%; height:0; overflow:hidden;">
+<p><iframe src="https://zhiyunapps-protocol.share.connect.posit.cloud/" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen=""> </iframe></p>
+</div>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1755115964956" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
-<a href="../projects/app-active-exp-dash/apps-active-exp-dash.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../projects/app-active-exp-dash/preview.png" class="thumbnail-image card-img" style="height: 150px;" alt="Active Experiment Dashboard screenshot">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Active Experiment Dashboard
-</h5>
-<div class="card-text listing-description delink">
-<p>Monitor and prioritize ongoing experiments with live metrics.</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="TWFjaGluZSUyMExlYXJuaW5nJTJDT3B0aW1pemF0aW9uJTJDU2hpbnklMjBBcHA=" data-listing-file-modified-sort="1755140265472" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
-<a href="../projects/protocol-dash.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/protocol-dashboard-preview.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-PROTOCOL Dashboard — Bayesian Optimization for Cloud Labs
-</h5>
-<div class="card-text listing-description delink">
-This interactive dashboard accompanies our paper:
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -661,7 +581,7 @@ This interactive dashboard accompanies our paper:
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/ZhiyunGong/effective-carnival.git/blob/main/projects/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/ZhiyunGong/effective-carnival.git/blob/main/projects/protocol-dash.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>Built with Quarto</p>
 </div>
